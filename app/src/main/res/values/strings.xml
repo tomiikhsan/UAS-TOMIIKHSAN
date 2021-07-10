@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CRUD-Ashproject</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <array name="sektor">
+        <item>Pertanian</item>
+        <item>Perindustrian</item>
+        <item>Pakaian</item>
+        <item>Makanan</item>
+        <item>Hobby</item>
+        <item>Elektronik</item>
+    </array>
+</resources>
